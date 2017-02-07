@@ -11,7 +11,9 @@
 *	Edit this section
 *
 * ======================================================= */
-body {
+nav {color:blue;}
+  
+  body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 300;
   font-size: 20px;

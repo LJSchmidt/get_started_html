@@ -27,13 +27,12 @@
     font-size: 17px;
     line-height: 1.5;
   }
+}
 nav {
-    color: #191970;   
-    border-width: 5px;
-    border-style: solid;
-    border-color: #00008B;
-  }
-
+  color: #191970;
+  border: 5px;
+  border-style: solid;
+  background-color: #BDB76B;
 }
 
 a {

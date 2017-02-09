@@ -31,13 +31,15 @@
 nav {
   color: #191970;
   border: 5px;
-  border-style: solid;
+  border-style: dotted;
   background-color: #BDB76B;
 }
 article {
-  border-width: 5px;
+  border-width: 2px;
   border-style: solid;
   border-color: blue;
+  margin: 10pt;
+  padding: 10pt;
 }
 
 a {

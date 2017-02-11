@@ -31,7 +31,7 @@
 nav {
   color: #191970;
   border: 5px;
-  border-style: dotted;
+  border-style: dashed;
   background-color: #BDB76B;
 }
 article {
@@ -40,6 +40,13 @@ article {
   border-color: blue;
   margin: 10pt;
   padding: 10pt;
+}
+article header {
+  color: #8B4513;
+  font-size: 12px;
+}
+article p {
+  text-indent: 20pt;
 }
 
 a {

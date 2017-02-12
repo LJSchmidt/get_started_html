@@ -57,7 +57,14 @@ aside {
 }
 
 aside h2{
-  font-size: 16pt;
+  font-size: 12pt;
+}
+footer {
+  border-top: 1pt solid;
+}
+footer p {
+  font-size: 12pt;
+  text-align: right;
 }
 
 a {

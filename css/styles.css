@@ -47,6 +47,8 @@ article header {
 }
 article p {
   text-indent: 20pt;
+  color: #8B4513;
+  font-weight: bold;
 }
 aside {
   display: inline-block;
